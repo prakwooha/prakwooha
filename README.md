@@ -1,9 +1,9 @@
 # Hi there! 
 I'm Prakjyoti, a Computer Science student passionate about technology, creativity, and continous learning. 
 
-## Currently Learning - Full Stack Development || UI/UX Design
+Currently Learning - Full Stack Development || UI/UX Design
 
-## Interest - Music || Art || Anime 
+Interest - Music || Art || Anime 
 
 ## Connect with me - 
 GitHub: @prakwooha 
